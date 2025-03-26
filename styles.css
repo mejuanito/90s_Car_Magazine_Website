@@ -1,0 +1,48 @@
+.gidole-regular {
+  font-family: "Gidole", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.oxygen-light {
+  font-family: "Oxygen", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.oxygen-regular {
+  font-family: "Oxygen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.oxygen-bold {
+  font-family: "Oxygen", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h1 {
+	font-family: "Gidole", sans-serif;
+	margin: 6;
+	box-sizing: border-box;
+}
+h2 {
+	font-family: "Gidole", sans-serif;
+}
+h3 {
+	font-family: "Gidole", sans-serif;
+}
+h4 {
+	font-family: "Gidole", sans-serif;
+}
+div {
+	font-family: "Oxygen", sans-serif;
+	box-sizing: border-box;
+}
+body {
+	background-color: #eed03b;
+	background-image: url(/r32-photo1.jpg);
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: 450px 200px;
+}
